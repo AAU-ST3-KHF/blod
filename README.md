@@ -50,10 +50,8 @@ Tiden er sat således at der vil være:
 
 ## Spørgsmål noter
 
-- Til hver opgave i undervisningen vil der være:
-  - En opgave beskrivelse,
-  - En guide til hvordan man udfører opgaven.
-- Spørgsmålene i opgaveregningen bliver generelt set mere komplicerede,
-  - De sidste opgaver er en blanding af både den nuværende kursusgang, samt tidligere kursusgange.
-- Til eksamen vil der kun være en opgave beskrivelse.
-  - Det vil altså være op til jer at kunne se hvordan en opgave skal løses ud fra opgave beskrivelsen.
+Til hver opgave under kurset vil der være:
+- En opgave beskrivelse,
+- En guide til hvordan man udfører opgaven.
+Spørgsmålene i opgaveregningen bliver generelt set mere komplicerede,
+- De sidste opgaver er en blanding af både den nuværende kursusgang, samt tidligere kursusgange.
