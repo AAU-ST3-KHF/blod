@@ -53,7 +53,6 @@ Tiden er sat således at der vil være:
 - Til hver opgave i undervisningen vil der være:
   - En opgave beskrivelse,
   - En guide til hvordan man udfører opgaven.
-  - Svar på opgaven
 - Spørgsmålene i opgaveregningen bliver generelt set mere komplicerede,
   - De sidste opgaver er en blanding af både den nuværende kursusgang, samt tidligere kursusgange.
 - Til eksamen vil der kun være en opgave beskrivelse.
