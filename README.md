@@ -1,5 +1,5 @@
 # Cardiovascular System Blood
----
+
 
 ## ​ Usage
 
@@ -45,7 +45,7 @@ Før/efter Kursusgang:
 Tiden er sat således at der vil være:
 
 - 4 timers forberedelser (der hjemme, før undervisning)
-- 4 timers undervisning og samlet opgave regning
+- 4 timers undervisning og/eller samlet opgave regning
 - 4 timers individuel opgaveregning (der hjemme, efter undervisning)
 
 ## Spørgsmål noter
