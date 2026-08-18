@@ -45,3 +45,5 @@
 *.dat
 files/physionet.org/*
 files/__pycache__/*
+
+files/shared_overview_table1.png
