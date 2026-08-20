@@ -1,7 +1,7 @@
 import math
 
-D = 1.8e-3  # m^2/s, sammme som 1.8e-5 cm^2s^-1
-x1 = 1e-3
+D = 0.0018  # mm^2/s, same as 1.8e-5 cm^2s^-1
+x1 = 0.001
 x2 = 1
 
 # Solution
