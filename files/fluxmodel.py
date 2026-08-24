@@ -16,7 +16,7 @@ def flux(x: np.ndarray, C: np.ndarray, v: float, D: float):
     return Js
 
 
-def peclet(L: float, D: float, v: float):
+def peclet(L: float | np.ndarray, D: float, v: float):
     Pe = L * v / D
     return Pe
 
