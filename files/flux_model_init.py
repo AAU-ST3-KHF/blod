@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.axes
-
+from files.fluxmodel import concentration, flux, peclet  # Open the file to see the functions used below
 L_axial = 1  # mm
 L = 0.1  # mm
 C0 = 1.0  # mol/mm^3
@@ -13,28 +13,6 @@ conditions = {
         "D": 1.8e-3,
     },  # Normal Scenario, add new lines with different scenarios
 }
-
-
-def concentration(x, L_axial, v, D, C0):
-    transit_time = L_axial / v
-    lambda_eff = np.sqrt(2 * D * transit_time)
-    C = C0 * np.exp(-x / lambda_eff)
-    return C
-
-
-def flux(x: np.ndarray, C: np.ndarray, v: float, D: float):
-    dCdx = np.gradient(C, x)
-    Jd = -D * dCdx
-    Jc = v * C
-    Js = Jd + Jc
-
-    return Js
-
-
-def peclet(L, D, v):
-    Pe = L * v / D
-    return Pe
-
 
 # Create subplots
 fig, axs = plt.subplots(1, 3, figsize=(18, 8))
