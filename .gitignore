@@ -49,3 +49,13 @@ files/__pycache__/*
 files/shared_overview_table1.png
 
 data/shared_overview_table1.png
+
+# Auto-generated Python / Jupyter files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
